@@ -3,8 +3,6 @@
 ### Usage
 
 install: `npm install --save chemisax/generators`
-TODO: update install so it will load it from github and not npm.
-
 
 ```
 // Generate some dummy things
