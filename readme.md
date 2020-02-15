@@ -7,7 +7,7 @@ install: `npm install --save chemisax/generators`
 ```
 // Generate some dummy things
 
-const {generators} = require('generators')
+const generators = require('generators')
 
 let dummyData = new generators.DummyGenerator({ params })
 ```
